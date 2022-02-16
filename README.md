@@ -1,1 +1,1 @@
-# FlashChat
+# ChatApp
